@@ -2,7 +2,6 @@
 from gramformer import Gramformer
 import torch
 from fastapi import FastAPI
-import streamlit as st
 
 
 def set_seed(seed):
