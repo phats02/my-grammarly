@@ -1,4 +1,5 @@
-gramformer @ git+https://github.com/PrithivirajDamodaran/Gramformer.git
 fastapi==0.110.0
+gramformer==1.0
+Requests==2.31.0
+streamlit==1.32.2
 torch==2.2.1
-uvicorn[standard]==0.17.*
